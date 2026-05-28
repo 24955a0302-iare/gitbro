@@ -1,4 +1,1 @@
-# gitbro
-<h>creating a repository<h>
-<br>
-author -akash
+its a clangauge program
